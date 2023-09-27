@@ -14,5 +14,6 @@ I am excited by the opportunity to be able to advance my skillset and gain valua
 
 
 Final Year Project:
+
 My final Year Project at the University of Sussex was a 2-dimensional top down dungeon exploration game, this project resulted in my achievement of a first class degree with honours.
 https://github.com/MayhemOverLord/FoolsErrand

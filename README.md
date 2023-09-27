@@ -17,3 +17,10 @@ Final Year Project:
 
 My final Year Project at the University of Sussex was a 2-dimensional top down dungeon exploration game, this project resulted in my achievement of a first class degree with honours.
 https://github.com/MayhemOverLord/FoolsErrand
+
+
+If you would like to get in contact with me, I recommend reaching out through LinkedIn at:
+https://www.linkedin.com/in/bensteventon/
+
+Or through my email address at:
+benlsteventon@gmail.com
